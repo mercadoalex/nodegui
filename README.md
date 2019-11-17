@@ -28,3 +28,6 @@ npm start
 ## License
 
 MIT
+
+Mi articulo en Medium lo puedes leer en la siguiente dirección.
+https://medium.com/@alexmarket/nodegui-c8b8c9c81ba1
